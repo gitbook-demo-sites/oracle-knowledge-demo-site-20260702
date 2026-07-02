@@ -17,6 +17,7 @@
   "ANALYTICS": {
     "status": 204,
     "space": "avQrjpgeNC0lVscBa1oK",
-    "folder": "analytics-operations"
+    "folder": "analytics-operations",
+    "note": "Re-imported after simplifying release-notes syntax for GitBook import."
   }
 }
