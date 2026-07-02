@@ -1,9 +1,0 @@
-releases:
-  label: Releases
-  color: "#C74634"
-analytics:
-  label: Analytics
-  color: "#312D2A"
-operations:
-  label: Operations
-  color: "#6F625C"
