@@ -1,0 +1,69 @@
+{
+  "org": "2DnmWBpytIOUKeXExonU",
+  "site": "site_jxmPQ",
+  "spaces": {
+    "HOME": "d3XquanEuLEi8GahCoJ9",
+    "FOUNDATION": "o2XoDxl0AocIjLWQfaiY",
+    "GUIDES": "ib25i6OlTyyYgh6KSMGe",
+    "ANALYTICS": "avQrjpgeNC0lVscBa1oK"
+  },
+  "sections": {
+    "HOME": "sitesc_xgwLo",
+    "FOUNDATION": "sitesc_EKp9z",
+    "GUIDES": "sitesc_lvisZ",
+    "ANALYTICS": "sitesc_mLcl0"
+  },
+  "site_spaces": {
+    "HOME": "sitesp_SlDDZ",
+    "FOUNDATION": "sitesp_gf55G",
+    "GUIDES": "sitesp_Lgrrt",
+    "ANALYTICS": "sitesp_3e447"
+  },
+  "site_object": {
+    "object": "site",
+    "id": "site_jxmPQ",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Oracle Knowledge Experience Hub",
+    "icon": {
+      "icon": {
+        "dark": "https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/organizations%2F2DnmWBpytIOUKeXExonU%2Flogo%2Fqc8f5iROXVV1J4aoZ5o2%2FGitBook%20-%20Icon%20-%20Dark.svg?alt=media&token=78889522-cfba-4af4-9d93-075f40c9c18a",
+        "light": "https://firebasestorage.googleapis.com/v0/b/gitbook-x-prod.appspot.com/o/organizations%2F2DnmWBpytIOUKeXExonU%2Flogo%2Fqc8f5iROXVV1J4aoZ5o2%2FGitBook%20-%20Icon%20-%20Dark.svg?alt=media&token=78889522-cfba-4af4-9d93-075f40c9c18a"
+      }
+    },
+    "basename": "oracle-knowledge-experience-hub",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": false,
+    "createdAt": "2026-07-02T14:52:04.000Z",
+    "siteSpaces": 0,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/2DnmWBpytIOUKeXExonU/sites/site_jxmPQ",
+      "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_jxmPQ",
+      "preview": "https://sites.gitbook.com/preview/site_jxmPQ/"
+    }
+  }
+}

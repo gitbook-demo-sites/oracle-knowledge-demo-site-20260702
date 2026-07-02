@@ -33,9 +33,9 @@ Demo assumption: this is a curated first draft, not a literal migration. It uses
 ## Choose your path
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><i class="fa-pen-nib"></i></td><td><strong>Author and govern knowledge</strong></td><td>Templates, lifecycle states, reuse, approval, access, and version control.</td><td><a href="https://app.gitbook.com/s/XSPACE_FOUNDATION/">Author and govern knowledge</a></td></tr>
-<tr><td><i class="fa-magnifying-glass"></i></td><td><strong>Implement search and delivery</strong></td><td>Intelligent search, agent workspace delivery, self-service, global knowledge, and integrations.</td><td><a href="https://app.gitbook.com/s/XSPACE_GUIDES/">Implement search and delivery</a></td></tr>
-<tr><td><i class="fa-chart-line"></i></td><td><strong>Measure and improve</strong></td><td>Knowledge effectiveness, search analysis, content health, support runbooks, and release notes.</td><td><a href="https://app.gitbook.com/s/XSPACE_ANALYTICS/">Measure and improve</a></td></tr>
+<tr><td><i class="fa-pen-nib"></i></td><td><strong>Author and govern knowledge</strong></td><td>Templates, lifecycle states, reuse, approval, access, and version control.</td><td><a href="https://app.gitbook.com/s/o2XoDxl0AocIjLWQfaiY/">Author and govern knowledge</a></td></tr>
+<tr><td><i class="fa-magnifying-glass"></i></td><td><strong>Implement search and delivery</strong></td><td>Intelligent search, agent workspace delivery, self-service, global knowledge, and integrations.</td><td><a href="https://app.gitbook.com/s/ib25i6OlTyyYgh6KSMGe/">Implement search and delivery</a></td></tr>
+<tr><td><i class="fa-chart-line"></i></td><td><strong>Measure and improve</strong></td><td>Knowledge effectiveness, search analysis, content health, support runbooks, and release notes.</td><td><a href="https://app.gitbook.com/s/avQrjpgeNC0lVscBa1oK/">Measure and improve</a></td></tr>
 <tr><td><i class="fa-route"></i></td><td><strong>Map the source docs</strong></td><td>Understand how the old Oracle Knowledge library maps to the new GitBook structure.</td><td><a href="source-map.md">Map the source docs</a></td></tr>
 </tbody></table>
 
