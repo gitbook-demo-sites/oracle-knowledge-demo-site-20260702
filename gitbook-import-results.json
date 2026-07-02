@@ -1,0 +1,22 @@
+{
+  "HOME": {
+    "status": 204,
+    "space": "d3XquanEuLEi8GahCoJ9",
+    "folder": "home"
+  },
+  "FOUNDATION": {
+    "status": 204,
+    "space": "o2XoDxl0AocIjLWQfaiY",
+    "folder": "knowledge-foundation"
+  },
+  "GUIDES": {
+    "status": 204,
+    "space": "ib25i6OlTyyYgh6KSMGe",
+    "folder": "implementation-guides"
+  },
+  "ANALYTICS": {
+    "status": 204,
+    "space": "avQrjpgeNC0lVscBa1oK",
+    "folder": "analytics-operations"
+  }
+}

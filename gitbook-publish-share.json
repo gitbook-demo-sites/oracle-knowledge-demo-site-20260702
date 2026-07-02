@@ -1,0 +1,82 @@
+{
+  "publish_status": 200,
+  "publish": {
+    "object": "site",
+    "id": "site_jxmPQ",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Oracle Knowledge Experience Hub",
+    "icon": {
+      "icon": {
+        "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg",
+        "light": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg"
+      }
+    },
+    "basename": "oracle-knowledge-experience-hub",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "published": true,
+    "createdAt": "2026-07-02T14:52:04.000Z",
+    "siteSpaces": 4,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-advanced-customization",
+        "plan": "premium",
+        "frozen": false,
+        "customizations": [
+          "header-logo",
+          "footer-logo",
+          "footer-links",
+          "footer-copyright",
+          "semantic-colors"
+        ]
+      },
+      {
+        "id": "sites-sections",
+        "plan": "ultimate",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/2DnmWBpytIOUKeXExonU/sites/site_jxmPQ",
+      "app": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_jxmPQ",
+      "preview": "https://sites.gitbook.com/preview/site_jxmPQ/"
+    }
+  },
+  "share_status": 201,
+  "share": {
+    "object": "share-link",
+    "id": "zgQHX1HZaAn8Cor1MKr1",
+    "createdAt": "2026-07-02T14:52:30.000Z",
+    "name": "Oracle demo review",
+    "active": true,
+    "urls": {
+      "published": "https://enterprise-demos.gitbook.io/oracle-knowledge-experience-hub/zgQHX1HZaAn8Cor1MKr1/"
+    }
+  },
+  "published_url": "https://enterprise-demos.gitbook.io/oracle-knowledge-experience-hub/zgQHX1HZaAn8Cor1MKr1/",
+  "app_url": "https://app.gitbook.com/o/2DnmWBpytIOUKeXExonU/sites/site_jxmPQ",
+  "preview_url": "https://sites.gitbook.com/preview/site_jxmPQ/",
+  "repo": "https://github.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702"
+}

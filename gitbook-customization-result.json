@@ -1,0 +1,213 @@
+{
+  "updatedAt": "2026-07-02T14:52:28.000Z",
+  "title": "Oracle Knowledge Experience Hub",
+  "localizedTitle": {},
+  "internationalization": {
+    "locale": "en"
+  },
+  "styling": {
+    "theme": "clean",
+    "primaryColor": {
+      "dark": "#F56550",
+      "light": "#C74634"
+    },
+    "infoColor": {
+      "dark": "#F8F6F3",
+      "light": "#312D2A"
+    },
+    "successColor": {
+      "dark": "#8FB879",
+      "light": "#5F7D4F"
+    },
+    "warningColor": {
+      "dark": "#F5A45C",
+      "light": "#B35C1E"
+    },
+    "dangerColor": {
+      "dark": "#F56550",
+      "light": "#C74634"
+    },
+    "tint": {
+      "color": {
+        "dark": "#312D2A",
+        "light": "#F8F6F3"
+      }
+    },
+    "corners": "straight",
+    "depth": "flat",
+    "links": "accent",
+    "font": "Inter",
+    "monospaceFont": "IBMPlexMono",
+    "icons": "regular",
+    "background": "plain",
+    "sidebar": {
+      "background": "filled",
+      "list": "line"
+    },
+    "codeTheme": {
+      "default": {
+        "light": "default-light",
+        "dark": "default-dark"
+      },
+      "openapi": {
+        "light": "default-light",
+        "dark": "default-dark"
+      }
+    },
+    "search": "prominent"
+  },
+  "favicon": {
+    "icon": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg"
+    }
+  },
+  "header": {
+    "preset": "default",
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg"
+    },
+    "links": [
+      {
+        "to": {
+          "url": "https://www.oracle.com/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Oracle",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://www.oracle.com/technical-resources/documentation/knowledge-documentation.html",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Current docs",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://www.oracle.com/cx/service/knowledge-management/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-secondary",
+        "title": "Knowledge Management",
+        "localizedTitle": {}
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-mark.svg"
+    },
+    "groups": [
+      {
+        "links": [
+          {
+            "to": {
+              "kind": "space",
+              "space": "o2XoDxl0AocIjLWQfaiY"
+            },
+            "title": "Knowledge Foundation",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "ib25i6OlTyyYgh6KSMGe"
+            },
+            "title": "Implementation Guides",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "avQrjpgeNC0lVscBa1oK"
+            },
+            "title": "Analytics & Operations",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Demo paths",
+        "localizedTitle": {}
+      },
+      {
+        "links": [
+          {
+            "to": {
+              "url": "https://github.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702",
+              "kind": "url"
+            },
+            "title": "Source repo",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://www.oracle.com/technical-resources/documentation/knowledge-documentation.html",
+              "kind": "url"
+            },
+            "title": "Oracle Knowledge docs",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sources",
+        "localizedTitle": {}
+      }
+    ],
+    "copyright": "Oracle Knowledge Experience Hub demo - built for review in GitBook."
+  },
+  "themes": {
+    "default": "light",
+    "toggeable": true
+  },
+  "trademark": {
+    "enabled": true
+  },
+  "feedback": {
+    "enabled": true
+  },
+  "ai": {
+    "mode": "assistant",
+    "suggestions": [
+      "How should I govern Oracle Knowledge articles?",
+      "Where do I configure intelligent search?",
+      "How do I deliver knowledge to agents and self-service users?",
+      "Which analytics show content health?",
+      "How would we migrate the Release 8.6 documentation library?"
+    ]
+  },
+  "advancedCustomization": {
+    "enabled": true
+  },
+  "pageActions": {
+    "items": [
+      "assistant",
+      "markdown",
+      "external-ai",
+      "mcp",
+      "pdf"
+    ]
+  },
+  "pagination": {
+    "enabled": true
+  },
+  "privacyPolicy": {
+    "url": "https://www.oracle.com/legal/privacy/"
+  },
+  "socialPreview": {
+    "url": "https://raw.githubusercontent.com/gitbook-demo-sites/oracle-knowledge-demo-site-20260702/main/assets/oracle-knowledge-banner.svg"
+  },
+  "socialAccounts": [],
+  "externalLinks": {
+    "target": "self"
+  },
+  "insights": {
+    "trackingCookie": true
+  }
+}
